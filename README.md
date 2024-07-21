@@ -6,7 +6,7 @@
 - ![all_members_layout_using](images/all_members_layout_using.jpg)
 
 # 参加者リスト
-- [GxP](https://gxp.co.jp)
+- [GxP](https://www.gxp.co.jp)
 - [3zki](https://github.com/3zki)
 
 # 参加者のデザイン

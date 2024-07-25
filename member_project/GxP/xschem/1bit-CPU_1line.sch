@@ -233,25 +233,25 @@ N -523730 -1425110 -523730 -1425060 {
 lab=#net2}
 C {devices/ipin.sym} -527120 -1425080 0 0 {name=p1 lab=CLK}
 C {devices/ipin.sym} -527120 -1425000 0 0 {name=p2 lab=RESET}
-C {stdcells/na21.sym} -526060 -1425040 0 0 {name=x3 VDD=VDD VSS=GND}
-C {stdcells/na21.sym} -525880 -1425040 2 1 {name=x4 VDD=VDD VSS=GND}
-C {stdcells/na21.sym} -525680 -1425040 0 0 {name=x5 VDD=VDD VSS=GND}
-C {stdcells/na21.sym} -525480 -1425040 0 0 {name=x6 VDD=VDD VSS=GND}
-C {stdcells/an21.sym} -525120 -1425040 0 0 {name=x7 VDD=VDD VSS=GND}
-C {stdcells/an21.sym} -524930 -1425040 0 0 {name=x8 VDD=VDD VSS=GND}
-C {stdcells/an21.sym} -524300 -1425040 0 0 {name=x9 VDD=VDD VSS=GND}
-C {stdcells/an21.sym} -523870 -1425040 0 0 {name=x10 VDD=VDD VSS=GND}
-C {stdcells/inv1.sym} -525290 -1425040 0 0 {name=x13 VDD=VDD VSS=GND}
-C {stdcells/inv1.sym} -524490 -1425040 0 0 {name=x14 VDD=VDD VSS=GND}
-C {stdcells/inv1.sym} -524040 -1425040 0 0 {name=x15 VDD=VDD VSS=GND}
-C {stdcells/inv1.sym} -524160 -1425040 0 0 {name=x16 VDD=VDD VSS=GND}
-C {stdcells/inv1.sym} -526230 -1425040 0 0 {name=x17 VDD=VDD VSS=GND}
 C {devices/ipin.sym} -524200 -1424890 3 0 {name=p3 lab=PROG1}
 C {devices/ipin.sym} -524080 -1424890 3 0 {name=p4 lab=PROG0}
 C {devices/opin.sym} -526640 -1424930 1 0 {name=p18 lab=REG0}
 C {devices/opin.sym} -526310 -1424900 1 0 {name=p7 lab=PC0}
 C {devices/opin.sym} -526170 -1424900 1 0 {name=p8 lab=PC1}
-C {stdcells/or21.sym} -524710 -1425040 0 0 {name=x11 VDD=VDD VSS=GND}
-C {stdcells/or21.sym} -523670 -1425040 0 0 {name=x12 VDD=VDD VSS=GND}
-C {stdcells/rff1.sym} -526760 -1425040 0 0 {name=x1 VDD=VDD VSS=GND}
-C {stdcells/rff1.sym} -526450 -1425040 0 0 {name=x2 VDD=VDD VSS=GND}
+C {stdcells/rff1.sym} -526760 -1425040 0 0 {name=x1}
+C {stdcells/rff1.sym} -526450 -1425040 0 0 {name=x2}
+C {stdcells/inv1.sym} -526230 -1425040 0 0 {name=x13}
+C {stdcells/inv1.sym} -525290 -1425040 0 0 {name=x14}
+C {stdcells/inv1.sym} -524490 -1425040 0 0 {name=x15}
+C {stdcells/inv1.sym} -524160 -1425040 0 0 {name=x16}
+C {stdcells/inv1.sym} -524040 -1425040 0 0 {name=x17}
+C {stdcells/na21.sym} -526060 -1425040 0 0 {name=x3}
+C {stdcells/na21.sym} -525680 -1425040 0 0 {name=x4}
+C {stdcells/na21.sym} -525480 -1425040 0 0 {name=x5}
+C {stdcells/na21.sym} -525880 -1425040 2 1 {name=x6}
+C {stdcells/an21.sym} -525120 -1425040 0 0 {name=x7}
+C {stdcells/an21.sym} -524930 -1425040 0 0 {name=x8}
+C {stdcells/an21.sym} -524300 -1425040 0 0 {name=x9}
+C {stdcells/an21.sym} -523870 -1425040 0 0 {name=x10}
+C {stdcells/or21.sym} -524710 -1425040 0 0 {name=x11}
+C {stdcells/or21.sym} -523670 -1425040 0 0 {name=x12}

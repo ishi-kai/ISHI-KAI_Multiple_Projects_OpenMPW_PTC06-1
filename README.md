@@ -8,6 +8,11 @@
 # 参加者リスト
 - [GxP](https://www.gxp.co.jp)
 - [3zki](https://github.com/3zki)
+- [SaltyChip](https://github.com/SaltyChip703)
+
+## 各種リスト
+- [メンバーリスト](docs/member_list.pdf)
+- [ピンリスト](docs/pin_list.pdf)
 
 # 参加者のデザイン
 ## [GxP](member_project/GxP/)：1bit CPU made with ASIC (ISHI-Kai's OpenMPW PTC06-1)
@@ -20,4 +25,16 @@
 
 
 ## [3zki](member_project/3zki/)
+
+## [SaltyChip703](member_project/SaltyChip703/)：AND回路
+### 設計したもの
+NANDとインバータをつないでAND回路になっています．
+NANDはスタセルを使わずに手動でレイアウトをしました．
+後段のインバータはスタセルです．
+シミュレーションで閾値が電源電圧の半分ぐらいになるように調整しました．
+動くことを祈っています．
+- ![回路図](member_project/SaltyChip703/and_sch.png)
+- ![レイアウト](member_project/SaltyChip703/and_gds.png)
+### 感想
+なかなかDRCとLVSが通らず苦労しました．
 

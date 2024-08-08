@@ -2,8 +2,8 @@
 これは、[ISHI会版OpenMPW PTC06-1](https://ishi-kai.org/openmpw/shuttle/ptc06/2024/07/06/shuttle_ISHI-Kai_OpenMPW-PTC06-1_start.html)にみんなで相乗りしたxschemによる回路図とklayoutによるレイアアウト置き場です。
 
 ## みんなの[相乗りチップ](Submitted/all_members_layout.gds)
-- ![all_members_layout](Submitted/all_members_layout.jpg)
-- ![all_members_layout_using](Submitted/all_members_layout_using.jpg)
+- ![all_members_layout](Submitted/all_members_layout.png)
+- ![all_members_layout_using](Submitted/all_members_layout_using.png)
 
 # 参加者リスト
 - [GxP](https://www.gxp.co.jp)

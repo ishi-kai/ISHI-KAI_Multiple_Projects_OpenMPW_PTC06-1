@@ -209,8 +209,8 @@ Pathをぐるぐる巻きにしたので余計な手間をかけてしまうか�
 
 今度はもう少し複雑な回路を置いて、シミュレーションして作ってみたいです。
 
-- ![回路図](member_project/kensukeyama/inv_sch.png)
-- ![レイアウト](member_project/kensukeyama/inv_gds.png)
+- ![回路図](member_project/kensukeyama/kensuke/inv_sch.png)
+- ![レイアウト](member_project/kensukeyama/kensuke/inv_gds.png)
 
 
 ## [daichi-nigihayami](https://github.com/daichi-nigihayami/inverter)：Inverter回路
@@ -269,8 +269,8 @@ ICを自分たちで作るべく、社内の有志で活動していましたが
 次回のPhenitec 様のシャトルサービスで、自分たちの回路を載せられるべく、勉強を続けようと思います。
 
 
-- ![回路図](member_project/katsuhito/inv_sch.png)
-- ![レイアウト](member_project/katsuhito/inv_gds.png)
+- ![回路図](member_project/kensukeyama/katsuhito/inv_sch.png)
+- ![レイアウト](member_project/kensukeyama/katsuhito/inv_gds.png)
 
 
 ## [koji](https://github.com/kensukeyama/OpenMPW/koji)：Inverter回路
@@ -282,8 +282,8 @@ ICを自分たちで作るべく、社内の有志で活動していましたが
 
 自信がついたので、ばりばりの回路が作れそうです。（根拠ない自信）
 
-- ![回路図](member_project/koji/inv_sch.png)
-- ![レイアウト](member_project/koji/inv_gds.png)
+- ![回路図](member_project/kensukeyama/koji/inv_sch.png)
+- ![レイアウト](member_project/kensukeyama/koji/inv_gds.png)
 
 
 ## [SHOTARO-TOMOOKA](https://github.com/SHOTARO-TOMOOKA/Chibasho)：Inverter回路

@@ -41,7 +41,7 @@ N -80 160 -40 160 {
 lab=Q}
 C {primitives/pfet.sym} -140 30 0 0 {name=M1 
 model=pchor1ex
-W=3.3u
+W=33u
 L=1u
 m=1
 }

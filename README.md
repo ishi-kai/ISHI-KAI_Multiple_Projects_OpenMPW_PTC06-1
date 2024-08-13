@@ -5,12 +5,14 @@
 ## みんなの[相乗りチップ](Submitted/all_members_layout.gds)
 - ![all_members_layout](Submitted/all_members_layout.png)
 - ![all_members_layout_using](Submitted/all_members_layout_using.png)
--- 緑枠
---- 独自設計の回路
--- オレンジ枠
---- 初めてのInverter回路
--- 紫枠
---- 初めてのInverter回路だけどピン不足によりレイアアウト配置のみ
+
+### 相乗りチップのラベル
+- 緑枠
+-- 独自設計の回路
+- オレンジ枠
+-- 初めてのInverter回路
+- 紫枠
+-- 初めてのInverter回路だけどピン不足によりレイアアウト配置のみ
 
 
 # 参加者リスト

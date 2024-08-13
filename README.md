@@ -8,6 +8,7 @@
 # 参加者リスト
 - [GxP](https://www.gxp.co.jp)
 - [3zki](https://github.com/3zki)
+- [Sinby](https://sinby.com)
 - [SaltyChip](https://github.com/SaltyChip703)
 
 ## 各種リスト
@@ -26,6 +27,17 @@
 
 ## [3zki](member_project/3zki/)
 
+## [Sinby](member_project/Sinby/): リングオシレータ VCO 
+### 設計したもの
+リングオシレータ VCO を作りました。
+出力にバッファをつけてあります。
+- ![回路図](member_project/Sinby/images/vco_osc5_sch.png)
+- ![レイアウト](member_project/Sinby/images/vco_osc5_gds.png)
+- ![テストベンチ](member_project/Sinby/images/tb_vco_osc5_sch.png)
+- ![シミュレーション結果](member_project/Sinby/images/tb_vco_osc5_sim_result.png)
+
+### 感想
+レイアウトはもう少し一般的な工夫をすれば小さくなると思います。
 
 ## [SaltyChip703](member_project/SaltyChip703/AND_circuit/)：AND回路
 ### 設計したもの

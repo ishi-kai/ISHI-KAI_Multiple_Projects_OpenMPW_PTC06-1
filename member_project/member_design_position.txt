@@ -1,2 +1,24 @@
 GxP = (-400,-600)
-SaltyChip703 = (-600,500)
+SaltyChip703_AND = (-600,500)
+SaltyChip703_OPAMP = (-600,600)
+
+KeiSakam = (100,-600)
+wwlapaki310 = (300,-600)
+yato-Neco = (500,-600)
+
+KentoKashiuchi0821Kento = (600,-500)
+1uf3 = (600,-300)
+daichi-nigihayami = (600,-100)
+aiharayasuto = (600,200)
+danook = (600,400)
+zakiryo1016 = (600,600)
+
+KentM-hub = (400,600)
+kensukeyama = (150,550)
+zakio123 = (-50,600)
+ckdur = (-250,600)
+
+koji = (200,505)
+SHOTARO-TOMOOKA = (300,505)
+passiven = (400,495)
+katsuhito = (500,450)

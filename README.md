@@ -5,7 +5,6 @@
 ## みんなの[相乗りチップ](Submitted/all_members_layout.gds)
 - ![all_members_layout](Submitted/all_members_layout.png)
 - ![all_members_layout_using](Submitted/all_members_layout_using.png)
-
 -- 緑枠
 --- 独自設計の回路
 -- オレンジ枠

@@ -55,8 +55,21 @@
 - ![1bit-CPUのレイアウト](member_project/GxP/images/klayout_1bit-CPU_size.png)
 
 
-## [3zki](member_project/3zki/)
-（フェニテックのPDKを利用したガチ設計のため、非公開）
+## [3zki](member_project/3zki/): クロックダブラー
+### 設計したもの
+1MHzの矩形クロックを2MHzの矩形クロックにするクロックダブラーを作りました。
+詳細は省きますがPLLを使用していません。
+
+- ![コンセプトデザイン](member_project/3zki/images/concept.png)
+- ![回路図](member_project/3zki/images/clkdb.png)
+- ![シミュレーション結果](member_project/3zki/images/sim.png)
+- ![レイアウト](member_project/3zki/images/layout.png)
+
+### 感想
+今回はクロックダブラーだけでなくXschem用PDK、KLayout用LVSデッキ、ダミーフレーム、Ubuntu WSL用の設計環境も作成しました。
+
+多少なりとも皆様のお役に立てたのであれば幸いです。
+
 
 ## [Sinby](member_project/Sinby/): リングオシレータ VCO 
 ### 設計したもの

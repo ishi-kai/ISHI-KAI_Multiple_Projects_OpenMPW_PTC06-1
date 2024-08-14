@@ -7,12 +7,12 @@
 - ![all_members_layout_using](Submitted/all_members_layout_using.png)
 
 ### 相乗りチップのラベル
-- 緑枠
--- 独自設計の回路
-- オレンジ枠
--- 初めてのInverter回路
-- 紫枠
--- 初めてのInverter回路だけどピン不足によりレイアアウト配置のみ
+- 緑枠  
+-- 独自設計の回路  
+- オレンジ枠  
+-- 初めてのInverter回路  
+- 紫枠  
+-- 初めてのInverter回路だけどピン不足によりレイアアウト配置のみ  
 
 
 # 参加者リスト
@@ -317,3 +317,9 @@ fingerを利用したデカいサイズのInverter回路。
 
 - ![回路図](member_project/SIProp/large_inverter_sch.png)
 - ![レイアウト](member_project/SIProp/large_inverter_gds.png)
+
+# LVSの重要性
+今回は時間とツールの都合でLVS（Layout vs Schematic:レイアウトと回路図のマッチング）はオプションとしたのですが、やはり、レイアウトのミスが見つかりました。  
+やはり、LVSはやらないとですね。  
+
+- ![レイアウト](member_project/zakio123/inv_gds_lvs_error.png)

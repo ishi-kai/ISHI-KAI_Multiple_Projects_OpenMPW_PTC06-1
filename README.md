@@ -323,3 +323,39 @@ fingerを利用したデカいサイズのInverter回路。
 やはり、LVSはやらないとですね。  
 
 - ![レイアウト](member_project/zakio123/inv_gds_lvs_error.png)
+
+
+
+# 測定会
+## 製造されたチップ
+製造され、届いたチップたちです。
+- ![アルミ袋入り](images/chip_1.jpg)
+- ![中身](images/chip_2.jpg)
+- ![ベアダイ](images/baredie.jpg)
+- ![ベアダイを見る顕微鏡セット](images/microscope_baredie.jpg)
+
+
+## 簡易測定
+動作するか？簡易的に測定します。
+
+### ソケット利用
+測定にはチップ交換が簡単なようにソケットを利用します。
+
+- ![測定用ソケット](images/socket_1.jpg)
+- ![ソケットに入れた状態](images/socket_2.jpg)
+
+
+### インバーター回路の測定
+Analog Discovery3を利用して、0-5Vで変化するサイン波を入力し、その出力をオシロスコープモードで測定します。  
+結果は、正常にインバーター動作しているようです。  
+
+- ![AD3に接続](images/AD3_connect.jpg)
+- ![入力のサイン波](images/AD3_sine_wave.png)
+- ![出力結果](images/AD3_inverer_out.png)
+
+
+## お持ち帰りパッケージ
+チップを壊さずに持ち帰れるように静電気防止ウレタンと静電気防止袋を用意して持って帰ってもらいます。
+
+- ![静電気防止ウレタン](images/bringing_1.jpg)
+- ![静電気防止袋](images/bringing_2.jpg)

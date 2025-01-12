@@ -359,3 +359,21 @@ Analog Discovery3を利用して、0-5Vで変化するサイン波を入力し�
 
 - ![静電気防止ウレタン](images/bringing_1.jpg)
 - ![静電気防止袋](images/bringing_2.jpg)
+
+
+## 当日の測定会の風景
+金沢大学の秋田先生による導入プレゼン。これまでのMake:LSIの歴史と意義を語って貰いました。  
+- ![会場風景](images/measure_pre.jpg)
+
+### インバーター回路
+インバーター回路のできに満足する参加者様。
+
+- ![インバーター](images/measure_inverter_01.jpg)
+
+### 独自回路設計組
+AND回路を作ったSaltyChipさんちーむ。  
+そして、無事に動作して、ご満悦のお二人。  
+
+- ![ANDメンバー](images/measure_and_member.jpg)
+- ![AND波形(images/measure_and_wave.jpg)
+- ![ANDの波形拡大](images/measure_and_wave_zoom.jpg)

@@ -375,5 +375,5 @@ AND回路を作ったSaltyChipさんちーむ。
 そして、無事に動作して、ご満悦のお二人。  
 
 - ![ANDメンバー](images/measure_and_member.jpg)
-- ![AND波形(images/measure_and_wave.jpg)
+- ![AND波形](images/measure_and_wave.jpg)
 - ![ANDの波形拡大](images/measure_and_wave_zoom.jpg)
